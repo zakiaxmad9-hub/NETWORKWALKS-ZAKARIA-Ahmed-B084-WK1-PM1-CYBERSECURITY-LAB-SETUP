@@ -76,7 +76,11 @@ Through this project, I gained practical experience in virtual machine managemen
 ## 9. Conclusion
 
 The cybersecurity testing lab provides an isolated virtual environment for practicing ethical hacking and cybersecurity activities.
+## Note on IP Address Configuration
 
+The project requirements specified the Kali Linux IP address as `10.0.0.2/24`. However, I encountered a technical issue on my laptop while configuring this IP address. To avoid further configuration problems and ensure the lab environment remained functional, I used `10.0.0.3/24` instead.
+
+The alternative IP address was successfully configured, and internet connectivity was verified. Therefore, the practical implementation was completed using `10.0.0.3/24`.
 **Project:** NetworkWalks Cybersecurity Program
 **Module:** WK1-PM1
 **Author:** Zakaria Ahmed Barre
